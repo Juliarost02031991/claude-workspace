@@ -1,34 +1,63 @@
 # Business-Informationen
 
-> Diese Datei liefert Hintergrund zur Organisation oder zum Business, in dem du arbeitest. Sie schafft die Grundlage, um deine Rolle (personal-info.md) und strategischen Prioritäten (strategy.md) zu verstehen.
+## Überblick
 
----
+**Business:** Julia Rost Coaching
+**Website:** https://juliarost.de
+**Zielgruppe:** Feinfühlige Frauen, 25–55 Jahre
 
-## Wie das zusammenhängt
+**Was sie sich wünschen:**
+- Ein glückliches, erfülltes Leben in allen Lebensbereichen
+- Mutig sein und endlich nach dem Herzen handeln
+- Antworten aus der Seele — und danach handeln
 
-- **Diese Datei** liefert den organisatorischen Kontext
-- **personal-info.md** definiert deine Rolle darin
-- **strategy.md** beschreibt die Ziele, auf die du hinarbeitest
-- **current-data.md** trackt den Fortschritt und informiert Entscheidungen
+**Was sie nachts wachhält:**
+- Das Gefühl "nicht gut genug" zu sein
+- Unglück in Beziehungen
+- Sich selbst nicht kennen, immer nach dem Kopf handeln statt nach dem Herzen
+- Zweifel, Unsicherheit, innere Unruhe
 
----
+**Wichtige Erkenntnis — Soul Readings:**
+Im Dezember hat Julia 30 Soul Readings verkauft. Frauen wollen Antworten aus der Seele. → Diese Antworten bekommen sie, wenn sie sich selbst kennen. Das ist der direkte Brückensatz zu Awakening Soul.
 
-## Überblick zur Organisation
+## Hauptangebot: Awakening Soul
 
-[Beschreibe das Business, das Unternehmen oder die Organisation. Was macht es? Wen bedient es? Was ist seine Mission oder sein Zweck?]
+**"Awakening Soul – Deine Rückkehr zu dir selbst"**
+12-wöchiges Gruppen-Coaching-Programm
 
-## Produkte / Dienstleistungen / Schwerpunkte
+**Module:**
+- Einleitung: Ankommen bei dir
+- Modul 1: Heartset & Mindset (Heilung innerer Anteile, alte Prägungen lösen)
+- Modul 2: Soul Connection (Verbindung zur eigenen Seele, Intuition)
+- Modul 3: Embodiment & Creation (Wahrheit im Alltag verkörpern, Leben aus Fülle gestalten)
 
-[Was sind die primären Angebote oder Schwerpunkte? Das hilft Claude zu verstehen, was du baust oder lieferst.]
+**Formate im Programm:**
+- Wöchentliche Live-Gruppencoachings (90 Min, ~12 Calls)
+- Persönlicher Mitgliederbereich (Meditationsbibliothek, Workshops, Aufzeichnungen)
+- Wöchentliche Seelenpraxis (Meditation + Journal, ~20 Min täglich)
+- Community (bewusste Gemeinschaft von Frauen)
+- Telegram-Gruppe (direkter Austausch mit Julia)
 
--
--
--
+## Ergebnisse & Transformationen der Kundinnen
 
-## Wichtiger Kontext
+Was Frauen durch die Arbeit mit Julia erreichen:
+- Angst durch Mut und Vertrauen ersetzen (Elisabeth, 36)
+- Alte Verletzungen heilen, positiv in die Zukunft blicken (Caro, 34)
+- Inneres Kind heilen, Blockaden lösen (Swetlana, Madleine)
+- Träume verwirklichen — z.B. Yogalehrer-Ausbildung (Silvia)
+- Flugangst nach 4 Jahren überwunden (Annika)
+- Haus verkauft für innere Freiheit — radikale Lebensveränderung (Sonja)
+- Heiratsantrag manifestiert nach 13 Jahren (Marzena)
+- Grenzen setzen, Meinung vertreten, authentisch leben (Katrin)
 
-[Alle wichtigen Hintergrundinformationen: Unternehmensphase, Teamgröße, Marktposition, kürzliche Änderungen oder Rahmenbedingungen, die Claude kennen sollte.]
+**Kern-Transformation:** Von Funktionieren, Angst und innerer Schwere → zu Verbindung mit sich selbst, Mut, Klarheit und einem Leben das sich wahrhaftig anfühlt.
 
----
+## Tonalität der Marke
 
-_Halte dies auf hohem Niveau — genug um Claude zu orientieren, kein umfassendes Unternehmens-Wiki._
+Warm, weich, ehrlich, liebevoll, klar — sanft aber tiefgehend.
+Kein Druck, kein Leistungsdenken, kein Überfordern.
+Seelenverbunden, weiblich, einladend, authentisch.
+
+## Business-Phase
+
+Aktiv im Launch-Modus — Kurse und Coachings füllen ist oberste Priorität.

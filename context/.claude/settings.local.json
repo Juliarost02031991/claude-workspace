@@ -3,7 +3,12 @@
     "allow": [
       "Bash(gh --version)",
       "Bash(git --version)",
-      "Bash(brew --version)"
+      "Bash(brew --version)",
+      "WebFetch(domain:juliarost.de)",
+      "Bash(brew install *)",
+      "Bash(/opt/homebrew/bin/brew install *)",
+      "Bash(/opt/homebrew/bin/pdftoppm --version)",
+      "Bash(/opt/homebrew/bin/pdftotext /Users/Julia/Downloads/WorkbookFederleicht.pdf -)"
     ]
   }
 }

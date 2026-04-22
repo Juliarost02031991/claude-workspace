@@ -1,38 +1,29 @@
 # Strategie
 
-> Diese Datei beschreibt aktuelle strategische Prioritäten — jährlich, quartalsweise oder projektbasiert. Claude liest sie, um zu verstehen, worauf du hinarbeitest, damit er als Denkpartner agieren kann, der auf deine Ziele ausgerichtet ist.
+## Aktueller Fokus (April 2026)
 
----
-
-## Wie das zusammenhängt
-
-- **business-info.md** liefert den organisatorischen Kontext
-- **personal-info.md** definiert deine Rolle und Verantwortlichkeiten
-- **Diese Datei** beschreibt, wie Erfolg aktuell aussieht
-- **current-data.md** trackt den Fortschritt gegenüber diesen Prioritäten
-
----
-
-## Aktueller Fokuszeitraum
-
-[Welchen Zeitraum deckt diese Strategie ab? Q1 2026? Ganzes Jahr? Eine spezifische Initiative?]
+**Oberstes Ziel:** Awakening Soul und Coachings füllen — aktiver Launch läuft.
 
 ## Strategische Prioritäten
 
-[Was sind die 2-5 Schlüsselprioritäten, auf die du dich fokussierst? Was versuchst du zu erreichen?]
-
-1.
-2.
-3.
+1. **Launch erfolgreich abschließen** — Awakening Soul Programm füllen
+2. **Content-Produktion** — regelmäßig sichtbar sein, Frauen ansprechen und abholen
+3. **Reichweite aufbauen** — mehr Frauen in die Zielgruppe bringen
+4. **Tools & Automatisierung** — Claude nutzen um schneller und effizienter zu arbeiten
+5. **Langfristig:** Eigene Tools / KI-Projekte entwickeln
 
 ## Wie Erfolg aussieht
 
-[Woran erkennst du, ob du erfolgreich bist? Welche Ergebnisse oder Meilensteine sind wichtig?]
+- Awakening Soul ist voll (oder nah dran)
+- Regelmäßiger, hochwertiger Content läuft
+- Claude unterstützt aktiv bei Launch, Content und Planung
 
-## Schlüsselentscheidungen oder offene Fragen
+## Große Vision
 
-[Strategische Spannungen, Abwägungen oder Entscheidungen, an denen du aktiv arbeitest?]
+Den Coaching-Markt revolutionieren. Bekanntheit aufbauen wie Laura Malina Seiler — als die führende Stimme für feinfühlige Frauen, die mehr aus ihrem Leben wollen. Julia will *bekannt* sein, nicht nur gut.
 
----
+## Offene Fragen / nächste Schritte
 
-_Aktualisiere dies, wenn sich Prioritäten verschieben. Claude nutzt dies, um die Arbeit in die richtige Richtung zu lenken._
+- Launch-Details (Dates, Angebote, Texte) — Julia schickt noch mehr Infos
+- Content-Strategie für den Launch konkretisieren
+- Markenaufbau & Reichweitenstrategie entwickeln

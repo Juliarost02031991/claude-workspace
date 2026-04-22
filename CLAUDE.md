@@ -37,10 +37,18 @@ Claude sollte sich immer über `/prime` am Session-Start orientieren, dann mit v
 │       ├── prime.md       # /prime — Ausführliche Session-Initialisierung
 │       ├── create-plan.md  # /create-plan — Detaillierter Implementierungsplan
 │       └── implement.md   # /implement — Pläne umsetzen
-├── context/               # Hintergrund-Kontext über den User und das Projekt
-│                          # (Vom User mit Rolle, Zielen, Strategien befüllen)
+├── context/               # Vollständig befüllter Kontext über Julia & ihr Business
+│   ├── personal-info.md   # Rolle, Alltag, Social Media, Team
+│   ├── business-info.md   # Angebote, Zielgruppe, Transformationen
+│   ├── strategy.md        # Vision, Prioritäten, Launch-Fokus
+│   ├── brand-voice.md     # Tonalität, typische Sätze, Sprache
+│   ├── branding.md        # Farben, Schriften, Logo
+│   ├── content-strategie.md # Was funktioniert auf Instagram
+│   ├── launch-daten.md    # Launch-Zahlen, nächster Launch 14.05.
+│   ├── julias-geschichte.md # Persönliche Geschichte & Antrieb
+│   └── programme.md       # Federleicht, Awakening Soul — Inhalte
 ├── inbox/                 # Schnelle Notizen, erfasst mit /capture
-├── plans/                 # Implementierungspläne erstellt von /plan oder /create-plan
+├── plans/                 # Projektpläne erstellt mit /plan oder /create-plan
 ├── outputs/               # Arbeitsergebnisse und Deliverables
 ├── reference/             # Vorlagen, Beispiele, wiederverwendbare Patterns
 └── scripts/               # Automatisierungsskripte (falls zutreffend)

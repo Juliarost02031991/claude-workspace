@@ -33,17 +33,38 @@
 - Conversion Workshop → Erstgespräch noch ausbaufähig (80 live, nur 5 Calls)
 - Nur 1 Käuferin direkt über Ads
 
-## Nächster Launch
+## Nächster Launch — GUT GENUG Workshop
 
-**Datum:** 14. Mai 2026
-**Format:** 0€ Live-Workshop, 2,5 Stunden
+**Datum:** 14. Mai 2026, 10:00–12:30 Uhr
+**Format:** 0€ Live-Workshop, 2,5 Stunden (Zoom)
+**Landingpage:** https://workshopgutgenug.juliarost.de
+**Netlify Site ID:** 4364df8e-a8ba-463f-81bc-dcddd0f7544b
 
 **Inhalt des Workshops:**
-- Julia zeigt, woran es liegt, dass Frauen sich nicht selbst spüren
-- Geführte Meditation (Julias Stärke — bringt Frauen tief in ihr Inneres)
-- EFT (Klopftechnik) — lässt Frauen direkt etwas fühlen und loslassen
-- Frauen sollen am Ende leichter, verbundener und klarer rausgehen
-**Ziel:** Mehr Käuferinnen, bessere Conversion, weniger Druck
+- Sanftes Ankommen & Nervensystem beruhigen
+- Tiefe Einsichten — warum das Ungenug-Gefühl unwahr ist
+- SOUL-CODES Reise (6 Phasen: Remember, Release, Root, Reconnect, Rise, Receive)
+- Geführte Meditation & EFT (Klopftechnik)
+- Journaling & Integration
+- Live Q&A
+
+**Erledigt:**
+- ✅ Landingpage live auf workshopgutgenug.juliarost.de
+- ✅ SSL-Zertifikat aktiv
+- ✅ Meta Pixel (863596277771064) eingebaut
+- ✅ OG-Vorschaubild (og-image.png) eingebaut
+- ✅ Instagram Story & Feed Werbeanzeigen erstellt (Downloads-Ordner + Canva)
+- ✅ Werbetext für Meta Ads fertig
+- ✅ Willkommens-E-Mail Entwurf fertig (Zoom-Link noch eintragen)
+- ✅ Meta Ads Budget geplant: 70€/Tag Start, Gesamt ~1.440€
+
+**Meta Ads Setup:**
+- Alter: 28–52, Frauen, DACH
+- Budget: 70€/Tag (Woche 1), steigernd bis 130€/Tag (letzte Tage)
+- Gesamt: ~1.440€
+- Anzeigenset 1: Broad (kein Interesse-Targeting)
+- Anzeigenset 2: Mit Interessen (Selbstliebe, Meditation, Life Coaching)
+- Ziel CPL: unter 3–6€
 
 ### Julias Wunsch für nächsten Launch
 - Weniger Druck, mehr Anziehung

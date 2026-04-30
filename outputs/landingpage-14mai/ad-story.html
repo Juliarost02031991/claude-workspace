@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    width: 1080px;
+    height: 1920px;
+    background: #3d3730;
+    font-family: 'Georgia', serif;
+    overflow: hidden;
+    position: relative;
+  }
+
+  /* Julia's photo — full background */
+  .bg-photo {
+    position: absolute;
+    inset: 0;
+    background: url('images/Objekt.png') no-repeat center 10% / cover;
+    opacity: 0.75;
+  }
+
+  /* Gradient overlay — top and bottom */
+  .overlay {
+    position: absolute;
+    inset: 0;
+    background:
+      linear-gradient(to bottom,
+        rgba(61,55,48,0.85) 0%,
+        rgba(61,55,48,0.2) 35%,
+        rgba(61,55,48,0.1) 55%,
+        rgba(61,55,48,0.7) 75%,
+        rgba(61,55,48,0.95) 100%
+      );
+  }
+
+  /* Top section */
+  .top {
+    position: absolute;
+    top: 100px;
+    left: 0; right: 0;
+    text-align: center;
+    padding: 0 80px;
+  }
+
+  .top-tag {
+    display: inline-block;
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-size: 42px;
+    color: #D6AE64;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+  }
+
+  .top-label {
+    display: inline-block;
+    font-family: Arial, sans-serif;
+    font-size: 28px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: rgba(251,241,238,0.8);
+    font-weight: 300;
+  }
+
+  /* Main title */
+  .title-block {
+    position: absolute;
+    top: 260px;
+    left: 0; right: 0;
+    text-align: center;
+    padding: 0 60px;
+  }
+
+  .title-main {
+    font-family: Georgia, serif;
+    font-size: 200px;
+    font-weight: bold;
+    color: #FBF1EE;
+    line-height: 0.9;
+    letter-spacing: -4px;
+    text-shadow: 0 4px 30px rgba(0,0,0,0.4);
+  }
+
+  .title-sub {
+    font-family: Georgia, serif;
+    font-size: 130px;
+    font-style: italic;
+    color: #D6AE64;
+    line-height: 1;
+    letter-spacing: -2px;
+    text-shadow: 0 4px 30px rgba(0,0,0,0.3);
+    margin-top: -10px;
+  }
+
+  /* Middle badge */
+  .badge {
+    position: absolute;
+    top: 700px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: linear-gradient(135deg, #b8933f, #D6AE64, #c19a49);
+    border-radius: 60px;
+    padding: 20px 52px;
+    white-space: nowrap;
+  }
+
+  .badge span {
+    font-family: Arial, sans-serif;
+    font-size: 34px;
+    font-weight: bold;
+    color: #fff;
+    letter-spacing: 1px;
+  }
+
+  /* Bottom section */
+  .bottom {
+    position: absolute;
+    bottom: 140px;
+    left: 0; right: 0;
+    text-align: center;
+    padding: 0 80px;
+  }
+
+  .tagline {
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-size: 46px;
+    color: #FBF1EE;
+    line-height: 1.4;
+    margin-bottom: 50px;
+    opacity: 0.95;
+  }
+
+  .tagline strong {
+    font-style: normal;
+    color: #D6AE64;
+  }
+
+  .date-row {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 50px;
+    flex-wrap: wrap;
+  }
+
+  .date-pill {
+    background: rgba(251,241,238,0.15);
+    border: 1.5px solid rgba(214,174,100,0.5);
+    border-radius: 50px;
+    padding: 16px 36px;
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    color: #FBF1EE;
+    letter-spacing: 0.5px;
+  }
+
+  .date-pill.gold {
+    background: rgba(214,174,100,0.2);
+    border-color: #D6AE64;
+    color: #D6AE64;
+    font-weight: bold;
+  }
+
+  .cta {
+    display: inline-block;
+    background: #FBF1EE;
+    color: #2a2a2a;
+    font-family: Arial, sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    padding: 26px 72px;
+    border-radius: 60px;
+    letter-spacing: 0.5px;
+  }
+
+  .author {
+    position: absolute;
+    bottom: 70px;
+    left: 0; right: 0;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 26px;
+    color: rgba(251,241,238,0.5);
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+
+  /* Gold top bar */
+  .top-bar {
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 8px;
+    background: linear-gradient(to right, #b8933f, #D6AE64, #c19a49);
+  }
+</style>
+</head>
+<body>
+  <div class="bg-photo"></div>
+  <div class="overlay"></div>
+  <div class="top-bar"></div>
+
+  <div class="top">
+    <div class="top-tag">Kostenloser Live-Workshop</div><br>
+    <div class="top-label">mit Julia Rost</div>
+  </div>
+
+  <div class="title-block">
+    <div class="title-main">GUT</div>
+    <div class="title-sub">Genug.</div>
+  </div>
+
+  <div class="badge">
+    <span>✦ Endlich wieder du selbst ✦</span>
+  </div>
+
+  <div class="bottom">
+    <div class="tagline">Du bist nicht zu viel.<br>Du bist nicht zu wenig.<br>Du bist <strong>genau richtig.</strong></div>
+    <div class="date-row">
+      <div class="date-pill gold">0 €</div>
+      <div class="date-pill">14. Mai 2026</div>
+      <div class="date-pill">10:00 – 12:30 Uhr</div>
+    </div>
+    <div class="cta">Jetzt kostenlos anmelden →</div>
+  </div>
+
+  <div class="author">juliarost.de</div>
+</body>
+</html>

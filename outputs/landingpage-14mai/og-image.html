@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    width: 1200px;
+    height: 630px;
+    background: #FBF1EE;
+    font-family: 'Georgia', serif;
+    overflow: hidden;
+    position: relative;
+  }
+
+  /* Decorative circles */
+  .circle-1 {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    background: radial-gradient(circle, rgba(214,174,100,0.15) 0%, transparent 70%);
+    top: -100px;
+    right: -80px;
+  }
+  .circle-2 {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background: radial-gradient(circle, rgba(214,174,100,0.1) 0%, transparent 70%);
+    bottom: -80px;
+    left: 60px;
+  }
+
+  /* Gold top bar */
+  .top-bar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 6px;
+    background: linear-gradient(to right, #b8933f, #D6AE64, #c19a49);
+  }
+
+  /* Main content */
+  .content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 720px;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 60px 80px;
+    z-index: 2;
+  }
+
+  .tag {
+    display: inline-block;
+    background: rgba(214,174,100,0.2);
+    border: 1px solid rgba(214,174,100,0.5);
+    color: #b8933f;
+    font-family: 'Georgia', serif;
+    font-size: 16px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    padding: 8px 20px;
+    border-radius: 50px;
+    margin-bottom: 28px;
+    width: fit-content;
+  }
+
+  .title {
+    font-family: 'Georgia', serif;
+    font-size: 96px;
+    font-weight: normal;
+    color: #2a2a2a;
+    line-height: 1;
+    margin-bottom: 10px;
+    letter-spacing: -2px;
+  }
+
+  .title em {
+    font-style: italic;
+    color: #D6AE64;
+  }
+
+  .subtitle {
+    font-family: Arial, sans-serif;
+    font-size: 22px;
+    color: rgba(42,42,42,0.65);
+    margin-bottom: 40px;
+    font-weight: normal;
+    letter-spacing: 0.5px;
+  }
+
+  .info-row {
+    display: flex;
+    align-items: center;
+    gap: 32px;
+  }
+
+  .info-pill {
+    background: #2a2a2a;
+    color: #FBF1EE;
+    font-family: Arial, sans-serif;
+    font-size: 17px;
+    padding: 10px 22px;
+    border-radius: 50px;
+    letter-spacing: 0.5px;
+  }
+
+  .info-pill.gold {
+    background: linear-gradient(135deg, #b8933f, #D6AE64);
+    color: #fff;
+    font-weight: bold;
+  }
+
+  .divider {
+    width: 1px;
+    height: 20px;
+    background: rgba(42,42,42,0.2);
+  }
+
+  /* Julia photo right side */
+  .julia-photo {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    height: 100%;
+    width: 420px;
+    object-fit: contain;
+    object-position: bottom right;
+  }
+
+  /* Gradient overlay so text stays readable */
+  .photo-fade {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 480px;
+    height: 100%;
+    background: linear-gradient(to right, #FBF1EE 0%, rgba(251,241,238,0.3) 40%, transparent 70%);
+    pointer-events: none;
+  }
+
+  /* Bottom author */
+  .author {
+    position: absolute;
+    bottom: 36px;
+    left: 80px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+
+  .author-line {
+    width: 32px;
+    height: 2px;
+    background: #D6AE64;
+  }
+
+  .author-name {
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    color: rgba(42,42,42,0.55);
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+
+  /* Bottom right URL */
+  .url {
+    position: absolute;
+    bottom: 36px;
+    right: 80px;
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    color: rgba(42,42,42,0.4);
+    letter-spacing: 0.5px;
+  }
+</style>
+</head>
+<body>
+  <div class="top-bar"></div>
+  <div class="circle-1"></div>
+  <div class="circle-2"></div>
+  <div class="photo-fade"></div>
+  <img class="julia-photo" src="images/Objekt.png" alt="Julia Rost">
+
+  <div class="content">
+    <div class="tag">✦ Kostenloser Live-Workshop</div>
+    <div class="title">GUT <em>GENUG</em></div>
+    <div class="subtitle">Endlich wieder du selbst — ohne Zweifel, ohne Erschöpfung.</div>
+    <div class="info-row">
+      <div class="info-pill gold">0 €</div>
+      <div class="divider"></div>
+      <div class="info-pill">14. Mai 2026</div>
+      <div class="divider"></div>
+      <div class="info-pill">10:00 – 12:30 Uhr</div>
+    </div>
+  </div>
+
+  <div class="author">
+    <div class="author-line"></div>
+    <div class="author-name">Julia Rost · juliarost.de</div>
+  </div>
+  <div class="url">workshopgutgenug.juliarost.de</div>
+</body>
+</html>

@@ -24,6 +24,9 @@ Den Coaching-Markt revolutionieren. Bekanntheit aufbauen wie Laura Malina Seiler
 
 ## Offene Fragen / nächste Schritte
 
-- Launch-Details (Dates, Angebote, Texte) — Julia schickt noch mehr Infos
-- Content-Strategie für den Launch konkretisieren
-- Markenaufbau & Reichweitenstrategie entwickeln
+- ✅ Landingpage live
+- ✅ Meta Ads vorbereitet
+- **Offen:** Content für den Workshop erstellen (Reels, Stories, Posts) — nächste Session
+- **Offen:** Zoom-Link in Willkommens-E-Mail eintragen
+- **Offen:** Canva Story/Feed Variante auswählen & in Ads Manager hochladen
+- Markenaufbau & Reichweitenstrategie entwickeln (nach Launch)
